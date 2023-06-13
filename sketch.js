@@ -128,10 +128,10 @@ if(label == 'Class 2'){
 
 }
  
-  if( monitorear ){
-    gestorAmp.dibujar( 100 , 100 );
-    gestorPitch.dibujar( 100 , 300 );
-  }
+//  if( monitorear ){
+  //  gestorAmp.dibujar( 100 , 100 );
+  //  gestorPitch.dibujar( 100 , 300 );
+ // }
   
   antesHabiaSonido = haySonido;
 
